@@ -2,7 +2,7 @@
 This is a Movie Database System implemented by Java in the BlueJ environment. The aim of the Movie Database System is for a user to keep a database of the movies he owns in his home movie collection, and to perform operations such as searching for movies, adding/deleting movies, displaying the details of movies, etc.
 
 When the program is running, it repeatedly displays a menu with these options: 
-(1) Search Movies 
+(1) Search Movies _
 (2) Add Movie 
 (3) Delete Movie 
 (4) Display Favourite Movies 
